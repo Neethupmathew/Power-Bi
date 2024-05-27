@@ -19,3 +19,6 @@ Perform basic data cleaning tasks such as handling missing values, removing dupl
 
 2. Then create the measures like total sales, total profit, total quantity shipped and other required values.
 3. According to the data and measures, create the visualizations to get interactive sales report.
+
+**Video link**
+**https://drive.google.com/file/d/1BT7ifRxdVCG-G9cUxm78vc_EPWcXcN77/view?usp=drive_link**
