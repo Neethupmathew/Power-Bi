@@ -18,4 +18,4 @@ Import the dataset into Power BI from google data set.
 Perform basic data cleaning tasks such as handling missing values, removing duplicates, and formatting data types appropriately.
 
 2. Then create the measures like total sales, total profit, total quantity shipped and other required values.
-3. According to the data and measures, create the visualisations to get interactive sales report.
+3. According to the data and measures, create the visualizations to get interactive sales report.
