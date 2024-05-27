@@ -13,6 +13,7 @@
 Here's a general outline;
 
 1.Data Import and Basic Data Cleaning:
+
     Import the dataset into Power BI from google data set.
     Perform basic data cleaning tasks such as handling missing values, removing duplicates, and formatting data types appropriately.
 
